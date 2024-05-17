@@ -7,6 +7,7 @@ AUTO_TRA ~PowerOfBelief/tra/%s~
 LANGUAGE ~English~ ~english~ ~PowerOfBelief/tra/english/setup.tra~
 LANGUAGE ~Russian (by Salazar [Saigon1983])~ ~russian~ ~PowerOfBelief/tra/russian/setup.tra~
 LANGUAGE ~Polish (by Memory [mstar])~ ~polish~ ~PowerOfBelief/tra/polish/setup.tra~
+LANGUAGE ~ Simplified Chinese~ ~schinese~ ~PowerOfBelief/tra/schinese/setup.tra~
 
 // ========================================================
 // MAIN COMPONENT
